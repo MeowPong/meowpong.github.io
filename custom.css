@@ -1,0 +1,158 @@
+body{
+    font-family: 'Noto Sans','Noto Sans Thai';
+}
+
+a{
+    text-decoration: none;
+}
+
+.logo{
+    height: 50px;
+    width: auto;
+}
+
+.btn-link{
+    color: black;
+}
+
+.btn-primary{
+    background-color: #416EC3;
+    border: none;
+}
+
+.btn-secondary{
+    background-color: #fff;
+    color: black;
+    border: none;
+    margin-left: -70px;
+    margin-right: 5px;
+    margin-top: 1px;
+}
+
+.dropdownsearch{
+    margin-left: -70px;
+    margin-right: 5px;
+    margin-top: 1px;
+}
+
+.carousel .carousel-indicators button {
+   width: 10px;
+   height: 10px;
+   border-radius: 100%;
+ }
+
+ .carousel-control-prev-icon {
+    position: absolute;
+    left: 1px;
+    height: 20%;
+    background-color: rgb(90, 90, 90);
+}
+
+.carousel-control-next-icon {
+    position: absolute;
+    right: 1px;
+    height: 20%;
+    background-color: rgb(90, 90, 90);
+}
+
+.material-symbols-outlined{
+    position: relative;
+    top: 3px;
+}
+
+.fullprice{
+    color: #A9A9A9;
+}
+
+.icon {
+    transform: scale(2);
+  }
+
+.resizeImg{
+    height: 200px;
+    width: auto;
+}
+
+.footer-logo{
+    height: 125px;
+    width: 250px;
+}
+
+.telephone-icon{
+    height: 40px;
+    width: 40px;
+}
+
+.footer-list{
+    font-size: 14px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: #416EC3;
+}
+
+.img-cartproduct{
+    height: 70px;
+}
+
+.cart-price{
+    color: #D2042D;
+}
+
+.btn-checkout{
+    color: #fff;
+}
+
+.btn-paypal{
+    height: 40px;
+}
+
+.CSPI{
+    height: 30px;
+}
+
+.contactus-head{
+    background-image: url(./images/contact\ us\ bg.jpg);
+    background-size: cover;
+    min-height: 100vh;
+    position: relative;
+
+}
+
+.color-overlay{
+    position: absolute;
+    top: 35%;
+    left: 10%;
+
+}
+
+
+.modal-title{
+    margin: 0 auto;
+}
+
+.loginpage-logo{
+    height: 60px;
+}
+
+.login-icon{
+    height: 23px;
+}
+
+.card-height{
+    height: 24rem;
+
+}
+
+.footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+ 
+  }
